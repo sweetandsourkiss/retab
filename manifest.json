@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Retab",
+  "description": "record your browsing history",
+  "version": "0.1",
+  "permissions": ["history", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "action": {
+    "default_popup": "index.html"
+  }
+}
