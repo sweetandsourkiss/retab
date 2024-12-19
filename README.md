@@ -1,3 +1,3 @@
 # Retab
 
-Record your browse history
+Rewind your tab history
