@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Retab",
-  "description": "record your browsing history",
+  "description": "rewind your tab history",
   "version": "0.1",
   "icons": {
     "16": "images/icon-16.png",
