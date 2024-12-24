@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "Retab",
-  "description": "당신의 브라우저 방문 기록을 한눈에 확인하세요.",
+  "description": "Check your browser history at a glance.",
   "version": "0.1",
   "icons": {
     "16": "images/icon-16.png",
