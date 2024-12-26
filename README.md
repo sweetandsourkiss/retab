@@ -1,6 +1,6 @@
 # Retab
 
-_Rewind your tab history_
+_Rewind your tab history_ [_here_](https://chromewebstore.google.com/detail/retab/noncniepfjlgndimglpfcmaeekcehjck?authuser=0&hl=ko)
 
 ## Feature
 
