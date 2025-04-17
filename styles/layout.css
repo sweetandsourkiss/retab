@@ -4,7 +4,7 @@ body {
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
 }
 
-#root {
+body {
   width: 500px;
   padding: 10px;
   background-color: steelblue;
