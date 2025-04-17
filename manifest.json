@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Retab",
   "description": "Check your browser history at a glance.",
-  "version": "0.2",
+  "version": "0.21",
   "icons": {
     "16": "images/icon-16.png",
     "32": "images/icon-32.png",
